@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.exe
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.deps.json
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.runtimeconfig.json
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.AssemblyInfo.cs
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\refint\Example005_Masha.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.genruntimeconfig.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example005_Masha\obj\Debug\net6.0\ref\Example005_Masha.dll
