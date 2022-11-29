@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.AssemblyInfo.cs
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\bin\Debug\net6.0\Example007_Triangl.exe
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\bin\Debug\net6.0\Example007_Triangl.deps.json
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\bin\Debug\net6.0\Example007_Triangl.runtimeconfig.json
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\bin\Debug\net6.0\Example007_Triangl.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\bin\Debug\net6.0\Example007_Triangl.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\refint\Example007_Triangl.dll
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\Example007_Triangl.genruntimeconfig.cache
+C:\Users\Bionikum\Мои проекты\Examples\Example007_Triangl\obj\Debug\net6.0\ref\Example007_Triangl.dll
