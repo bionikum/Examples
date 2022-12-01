@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\bin\Debug\net6.0\Massiv001.exe
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\bin\Debug\net6.0\Massiv001.deps.json
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\bin\Debug\net6.0\Massiv001.runtimeconfig.json
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\bin\Debug\net6.0\Massiv001.dll
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\bin\Debug\net6.0\Massiv001.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.AssemblyInfo.cs
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.dll
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\refint\Massiv001.dll
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.pdb
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\Massiv001.genruntimeconfig.cache
+C:\Users\Bionikum\Мои проекты\Examples\Massiv001\obj\Debug\net6.0\ref\Massiv001.dll
